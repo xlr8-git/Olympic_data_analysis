@@ -69,7 +69,7 @@ The AI layer augments the analysis; it does not replace analytical reasoning.
 ---
 
 ## Project Structure
-
+```bash
 Olympic_data_analysis/
 │
 ├── app.py
@@ -79,7 +79,7 @@ Olympic_data_analysis/
 ├── .env
 ├── .gitignore
 └── README.md
-
+```
 
 
 ---
